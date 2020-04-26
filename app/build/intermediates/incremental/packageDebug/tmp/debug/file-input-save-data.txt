@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Apr 26 19:28:39 ICT 2020
+0.baseType=DIRECTORY
+0.base=D\:\\A_doannd\\android\\Android_Apprentice_v2.0\\07-recycler-views\\final\\ListMaker\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
